@@ -1,3 +1,8 @@
+import net.beadsproject.beads.data.Sample;
+import net.beadsproject.beads.data.SampleManager;
+import net.beadsproject.beads.ugens.Gain;
+import net.beadsproject.beads.ugens.Glide;
+import net.beadsproject.beads.ugens.SamplePlayer;
 import net.happybrackets.core.HBAction;
 import net.happybrackets.core.HBReset;
 import net.happybrackets.device.HB;
@@ -5,8 +10,6 @@ import net.happybrackets.device.HB;
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 import java.lang.invoke.MethodHandles;
-
-import static com.sun.java.accessibility.util.AWTEventMonitor.addKeyListener;
 
 public class Cat_Hat implements HBAction, HBReset {
     // Change to the number of audio Channels on your device
@@ -21,6 +24,31 @@ public class Cat_Hat implements HBAction, HBReset {
         // remove this code if you do not want other compositions to run at the same time as this one
         hb.reset();
         hb.setStatus(this.getClass().getSimpleName() + " Loaded");
+
+        // Set volume
+        Glide audioVolume = new Glide(1f);
+
+        // Save location to audio files into variables
+        final String FIRST_AUDIO_FILE = "data/audio/Nylon_Guitar/Clean_A_harm.wav";
+
+        // Load audio files
+        Sample firstSample = SampleManager.sample(FIRST_AUDIO_FILE);
+
+        if (firstSample != null) {
+            // Create player for audio files
+            SamplePlayer firstSamplePlayer = new SamplePlayer(firstSample);
+
+            // Set the gain amplifier
+            Gain gainAmplifier = new Gain(NUMBER_AUDIO_CHANNELS, audioVolume);
+            gainAmplifier.addInput(firstSamplePlayer);
+            hb.ac.out.addInput(gainAmplifier);
+
+            System.out.println("Audio File Playing: " + FIRST_AUDIO_FILE);
+            firstSamplePlayer.start();
+
+        } else {
+            hb.setStatus("Sample Failed");
+        }
 
         System.out.println("Program started:");
 
