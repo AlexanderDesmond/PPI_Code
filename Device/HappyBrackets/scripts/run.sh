@@ -3,15 +3,21 @@
 ### Script to autorun HappyBrackets on device
 
 mkdir -p /home/pi/HappyBrackets/ramfs;
-sudo mount -t ramfs -o size=512 ramfs /home/pi/HappyBrackets/ramfs
+
 
 ### move to the correct dir for running this script (one level above where this script is)
 DIR=`dirname $0`
 cd ${DIR}/..
+ # do a chmod so everything belongs to PI
+sudo chown -R pi:pi /home/pi/HappyBrackets
 
+#we need to make our RAM file system root access so we can transfer files
+
+sudo chown -R root:root /home/pi/HappyBrackets/ramfs
+sudo mount -t ramfs -o size=512 ramfs /home/pi/HappyBrackets/ramfs
 
 #if we want to set specific parameters for a device, place them in device.config
-CONFIG_FILE=scripts/$HOSTNAME.config
+CONFIG_FILE=config/$HOSTNAME.config
 
 ### run HappyBrackets
 ### args to HB.jar are: buf (buffer size, default=1024), sr (sample rate, default=44100), bits (sample bit size, default=16), ins (input channels, default=0), outs (output channels, default=1), start (autostart audio, default=true), access (live code access mode, either ‘open’, ‘local’ or ‘closed’, default=open), followed by the full class path to any HBAction you wish to auto run. All args except the last one can be entered in any order.
@@ -22,7 +28,7 @@ BUF=1024
 SR=44100
 BITS=16
 INS=0
-OUTS=1 
+OUTS=2
 DEVICE=0
 AUTOSTART=true 
 ACCESSMODE=open
