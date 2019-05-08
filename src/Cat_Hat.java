@@ -11,6 +11,8 @@ import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 import java.lang.invoke.MethodHandles;
 
+import static com.sun.java.accessibility.util.AWTEventMonitor.addKeyListener;
+
 public class Cat_Hat implements HBAction, HBReset {
     // Change to the number of audio Channels on your device
     final int NUMBER_AUDIO_CHANNELS = 1;
@@ -25,16 +27,20 @@ public class Cat_Hat implements HBAction, HBReset {
         hb.reset();
         hb.setStatus(this.getClass().getSimpleName() + " Loaded");
 
+        //addKeyListener(this); // Trying to get this working.
+
         // Set volume
         Glide audioVolume = new Glide(1f);
 
         // Save location to audio files into variables
-        final String FIRST_AUDIO_FILE = "data/audio/Nylon_Guitar/Clean_A_harm.wav";
+        final String FIRST_AUDIO_FILE = "data/audio/Cat/meow.wav";
 
         // Load audio files
         Sample firstSample = SampleManager.sample(FIRST_AUDIO_FILE);
 
-        if (firstSample != null) {
+        System.out.println("test test test");
+
+        if (true) {
             // Create player for audio files
             SamplePlayer firstSamplePlayer = new SamplePlayer(firstSample);
 
@@ -50,7 +56,8 @@ public class Cat_Hat implements HBAction, HBReset {
             hb.setStatus("Sample Failed");
         }
 
-        System.out.println("Program started:");
+        System.out.println("Program is started:");
+
 
         new KeyListener() {
 
@@ -131,5 +138,20 @@ public class Cat_Hat implements HBAction, HBReset {
             e.printStackTrace();
         }
     }
+
+//    @Override
+//    public void keyTyped(KeyEvent e) {
+//        System.out.println("Second Key Pressed!");
+//    }
+//
+//    @Override
+//    public void keyPressed(KeyEvent e) {
+//
+//    }
+//
+//    @Override
+//    public void keyReleased(KeyEvent e) {
+//        System.out.println("Second Key Released!");
+//    }
     //</editor-fold>
 }
