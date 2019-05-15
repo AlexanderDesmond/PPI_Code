@@ -5,3 +5,7 @@ License: https://creativecommons.org/publicdomain/zero/1.0/
 'Cat, Screaming, A.wav' by InspectorJ
 Link: https://freesound.org/people/InspectorJ/sounds/415209/
 License: https://creativecommons.org/licenses/by/3.0/
+
+'_jf Cat Purring.wav' by cmusounddesign
+Link: https://freesound.org/people/cmusounddesign/sounds/85163/
+License: https://creativecommons.org/licenses/by/3.0/

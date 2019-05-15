@@ -2,287 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8ac14a86-6248-4999-beb1-94c7835de615" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/Device/HappyBrackets/data/audio/Cat/attributions.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Device/HappyBrackets/data/audio/Cat/meow.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Device/HappyBrackets/data/audio/Cat/screech.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/fileTemplates/HappyBracketsSketch.java" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/fileTemplates/HappyBracketsSketch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/HB.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/HB.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Device/HappyBrackets/HB.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Device/HappyBrackets/HB.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Device/HappyBrackets/HBVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Device/HappyBrackets/HBVersion.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Device/HappyBrackets/scripts/makeconfig.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Device/HappyBrackets/scripts/makeconfig.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Device/HappyBrackets/scripts/run-local-withlog.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Device/HappyBrackets/scripts/run-local-withlog.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Device/HappyBrackets/scripts/run-local.bat" beforeDir="false" afterPath="$PROJECT_DIR$/Device/HappyBrackets/scripts/run-local.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Device/HappyBrackets/scripts/run-local.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Device/HappyBrackets/scripts/run-local.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Device/HappyBrackets/scripts/run-simulator.bat" beforeDir="false" afterPath="$PROJECT_DIR$/Device/HappyBrackets/scripts/run-simulator.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Device/HappyBrackets/scripts/run-simulator.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Device/HappyBrackets/scripts/run-simulator.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Device/HappyBrackets/scripts/run-virtual.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Device/HappyBrackets/scripts/run-virtual.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Device/HappyBrackets/scripts/run.sh" beforeDir="false" afterPath="$PROJECT_DIR$/Device/HappyBrackets/scripts/run.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/allclasses-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/allclasses-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/allclasses-noframe.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/allclasses-noframe.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/constant-values.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/constant-values.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/deprecated-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/deprecated-list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/help-doc.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/help-doc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/index-all.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/index-all.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/ControllerEngine.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/ControllerEngine.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/config/ControllerConfig.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/config/ControllerConfig.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/config/ControllerSettings.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/config/ControllerSettings.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/config/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/config/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/config/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/config/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/config/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/config/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/gui/DialogDisplay.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/gui/DialogDisplay.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/gui/DynamicControlScreen.DynamicControlScreenLoaded.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/gui/DynamicControlScreen.DynamicControlScreenLoaded.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/gui/DynamicControlScreen.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/gui/DynamicControlScreen.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/gui/WaveformVisualiser.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/gui/WaveformVisualiser.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/gui/device/DeviceMenu.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/gui/device/DeviceMenu.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/gui/device/DeviceNameMenu.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/gui/device/DeviceNameMenu.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/gui/device/PingMenu.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/gui/device/PingMenu.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/gui/device/SoundMenu.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/gui/device/SoundMenu.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/gui/device/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/gui/device/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/gui/device/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/gui/device/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/gui/device/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/gui/device/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/gui/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/gui/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/gui/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/gui/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/gui/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/gui/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/http/FileServer.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/http/FileServer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/http/PathMapper.EmptyResponse.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/http/PathMapper.EmptyResponse.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/http/PathMapper.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/http/PathMapper.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/http/PathResponse.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/http/PathResponse.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/http/WithDefaultResponse.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/http/WithDefaultResponse.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/http/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/http/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/http/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/http/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/http/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/http/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/network/ControllerAdvertiser.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/network/ControllerAdvertiser.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/network/DeviceConnection.DeviceAliveListener.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/network/DeviceConnection.DeviceAliveListener.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/network/DeviceConnection.DisableAdvertiseChangedListener.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/network/DeviceConnection.DisableAdvertiseChangedListener.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/network/DeviceConnection.FavouritesChangedListener.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/network/DeviceConnection.FavouritesChangedListener.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/network/DeviceConnection.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/network/DeviceConnection.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/network/LocalDeviceRepresentation.ConnectedUpdateListener.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/network/LocalDeviceRepresentation.ConnectedUpdateListener.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/network/LocalDeviceRepresentation.DeviceConnectedUpdateListener.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/network/LocalDeviceRepresentation.DeviceConnectedUpdateListener.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/network/LocalDeviceRepresentation.DeviceIdUpdateListener.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/network/LocalDeviceRepresentation.DeviceIdUpdateListener.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/network/LocalDeviceRepresentation.DeviceRemovedListener.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/network/LocalDeviceRepresentation.DeviceRemovedListener.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/network/LocalDeviceRepresentation.FavouriteChangedListener.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/network/LocalDeviceRepresentation.FavouriteChangedListener.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/network/LocalDeviceRepresentation.LogListener.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/network/LocalDeviceRepresentation.LogListener.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/network/LocalDeviceRepresentation.SocketAddressChangedListener.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/network/LocalDeviceRepresentation.SocketAddressChangedListener.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/network/LocalDeviceRepresentation.StatusUpdateListener.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/network/LocalDeviceRepresentation.StatusUpdateListener.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/network/LocalDeviceRepresentation.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/network/LocalDeviceRepresentation.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/network/SendToDevice.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/network/SendToDevice.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/network/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/network/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/network/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/network/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/network/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/network/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/controller/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/AudioSetup.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/AudioSetup.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/BroadcastManager.OnListener.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/BroadcastManager.OnListener.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/BroadcastManager.OnTransmitter.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/BroadcastManager.OnTransmitter.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/BroadcastManager.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/BroadcastManager.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/BuildVersion.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/BuildVersion.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/Device.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/Device.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/DeviceStatus.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/DeviceStatus.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/EZShell.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/EZShell.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/Encryption.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/Encryption.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/ErrorListener.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/ErrorListener.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/HBAction.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/HBAction.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/HBReset.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/HBReset.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/OSCMessageBuilder.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/OSCMessageBuilder.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/OSCUDPListener.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/OSCUDPListener.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/OSCUDPReceiver.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/OSCUDPReceiver.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/OSCUDPSender.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/OSCUDPSender.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/OSCVocabulary.CONTROLLER.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/OSCVocabulary.CONTROLLER.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/OSCVocabulary.Device.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/OSCVocabulary.Device.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/OSCVocabulary.DynamicControlMessage.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/OSCVocabulary.DynamicControlMessage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/OSCVocabulary.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/OSCVocabulary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/ShellExecute.ProcessComplete.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/ShellExecute.ProcessComplete.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/ShellExecute.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/ShellExecute.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/StaticUDPReceiver.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/StaticUDPReceiver.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/Synchronizer.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/Synchronizer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/config/DefaultConfig.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/config/DefaultConfig.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/config/EnvironmentConfig.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/config/EnvironmentConfig.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/config/KnownDeviceID.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/config/KnownDeviceID.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/config/LoadableConfig.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/config/LoadableConfig.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/config/SavableConfig.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/config/SavableConfig.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/config/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/config/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/config/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/config/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/config/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/config/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/control/BooleanControl.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/control/BooleanControl.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/control/BooleanControlSender.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/control/BooleanControlSender.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/control/ControlMap.dynamicControlAdvertiseListener.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/control/ControlMap.dynamicControlAdvertiseListener.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/control/ControlMap.dynamicControlCreatedListener.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/control/ControlMap.dynamicControlCreatedListener.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/control/ControlMap.dynamicControlRemovedListener.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/control/ControlMap.dynamicControlRemovedListener.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/control/ControlMap.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/control/ControlMap.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/control/ControlScope.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/control/ControlScope.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/control/ControlType.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/control/ControlType.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/control/DynamicControl.ControlScopeChangedListener.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/control/DynamicControl.ControlScopeChangedListener.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/control/DynamicControl.DynamicControlListener.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/control/DynamicControl.DynamicControlListener.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/control/DynamicControl.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/control/DynamicControl.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/control/FloatBuddyControl.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/control/FloatBuddyControl.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/control/FloatControl.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/control/FloatControl.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/control/FloatControlSender.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/control/FloatControlSender.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/control/FloatSliderControl.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/control/FloatSliderControl.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/control/FloatTextControl.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/control/FloatTextControl.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/control/IntegerBuddyControl.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/control/IntegerBuddyControl.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/control/IntegerControl.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/control/IntegerControl.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/control/IntegerControlSender.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/control/IntegerControlSender.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/control/IntegerSliderControl.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/control/IntegerSliderControl.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/control/IntegerTextControl.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/control/IntegerTextControl.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/control/TextControl.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/control/TextControl.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/control/TextControlSender.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/control/TextControlSender.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/control/TriggerControl.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/control/TriggerControl.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/control/TriggerControlSender.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/control/TriggerControlSender.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/control/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/control/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/control/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/control/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/control/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/control/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/instruments/SampleModule.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/instruments/SampleModule.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/instruments/WaveModule.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/instruments/WaveModule.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/instruments/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/instruments/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/instruments/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/instruments/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/instruments/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/instruments/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/logging/Example.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/logging/Example.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/logging/Logging.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/logging/Logging.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/logging/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/logging/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/logging/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/logging/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/logging/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/logging/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/scheduling/AverageCalculator.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/scheduling/AverageCalculator.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/scheduling/Clock.ClockTickListener.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/scheduling/Clock.ClockTickListener.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/scheduling/Clock.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/scheduling/Clock.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/scheduling/Delay.DelayListener.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/scheduling/Delay.DelayListener.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/scheduling/Delay.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/scheduling/Delay.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/scheduling/HBScheduler.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/scheduling/HBScheduler.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/scheduling/ScheduledEventListener.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/scheduling/ScheduledEventListener.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/scheduling/ScheduledObject.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/scheduling/ScheduledObject.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/scheduling/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/scheduling/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/scheduling/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/scheduling/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/scheduling/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/core/scheduling/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/DebugApplication.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/DebugApplication.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/DeviceMain.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/DeviceMain.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/HB.AccessMode.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/HB.AccessMode.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/HB.StatusChangedListener.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/HB.StatusChangedListener.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/HB.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/HB.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/LogSender.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/LogSender.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/ManagerAgent.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/ManagerAgent.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/MinimalBleeper.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/MinimalBleeper.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/MuteControl.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/MuteControl.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/StartupClasses.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/StartupClasses.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/TextOutput.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/TextOutput.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/config/DeviceConfig.DeviceControllerDiscoveredListener.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/config/DeviceConfig.DeviceControllerDiscoveredListener.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/config/DeviceConfig.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/config/DeviceConfig.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/config/DeviceController.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/config/DeviceController.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/config/DeviceWifiConfig.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/config/DeviceWifiConfig.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/config/LocalConfigManagement.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/config/LocalConfigManagement.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/config/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/config/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/config/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/config/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/config/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/config/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/config/template/NetworkInterfaces.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/config/template/NetworkInterfaces.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/config/template/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/config/template/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/config/template/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/config/template/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/config/template/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/config/template/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/dynamic/DynamicClassLoader.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/dynamic/DynamicClassLoader.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/dynamic/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/dynamic/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/dynamic/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/dynamic/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/dynamic/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/dynamic/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/network/ControllerDiscoverer.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/network/ControllerDiscoverer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/network/ControllerServer.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/network/ControllerServer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/network/ControllerServerThread.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/network/ControllerServerThread.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/network/NetworkCommunication.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/network/NetworkCommunication.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/network/UDPCachedMessage.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/network/UDPCachedMessage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/network/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/network/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/network/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/network/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/network/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/network/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/Accelerometer.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/Accelerometer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/AccelerometerListener.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/AccelerometerListener.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/AccelerometerSimulator.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/AccelerometerSimulator.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/Gyroscope.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/Gyroscope.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/GyroscopeListener.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/GyroscopeListener.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/GyroscopeSimulator.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/GyroscopeSimulator.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/HTS221.HTS221ControlRegistry1.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/HTS221.HTS221ControlRegistry1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/HTS221.HTS221HumidityResolutionMode.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/HTS221.HTS221HumidityResolutionMode.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/HTS221.HTS221TemperatureResolutionMode.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/HTS221.HTS221TemperatureResolutionMode.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/HTS221.I2CConstants.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/HTS221.I2CConstants.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/HTS221.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/HTS221.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/LPS25H.I2CConstants.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/LPS25H.I2CConstants.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/LPS25H.LPS25HControlRegistry1.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/LPS25H.LPS25HControlRegistry1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/LPS25H.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/LPS25H.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/LSM6DS33.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/LSM6DS33.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/LSM9DS1.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/LSM9DS1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/Magnetometer.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/Magnetometer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/MagnetometerSimulator.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/MagnetometerSimulator.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/MiniMU.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/MiniMU.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/Sensor.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/Sensor.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/SensorNotFoundException.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/SensorNotFoundException.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/SensorUpdateListener.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/SensorUpdateListener.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/SensorValueChangedListener.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/SensorValueChangedListener.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/gpio/GPIO.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/gpio/GPIO.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/gpio/GPIODigitalOutput.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/gpio/GPIODigitalOutput.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/gpio/GPIOInput.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/gpio/GPIOInput.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/gpio/GPIOInputListener.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/gpio/GPIOInputListener.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/gpio/GPIOInputSimulator.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/gpio/GPIOInputSimulator.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/gpio/GPIOOutputSimulator.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/gpio/GPIOOutputSimulator.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/gpio/GPIOPWMOutput.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/gpio/GPIOPWMOutput.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/gpio/GPIOPWMSimulator.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/gpio/GPIOPWMSimulator.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/gpio/RaspbianGPIO.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/gpio/RaspbianGPIO.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/gpio/RaspbianGPIOInput.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/gpio/RaspbianGPIOInput.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/gpio/RaspbianGPIOOutput.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/gpio/RaspbianGPIOOutput.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/gpio/RaspbianGPIOPWMOutput.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/gpio/RaspbianGPIOPWMOutput.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/gpio/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/gpio/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/gpio/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/gpio/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/gpio/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/gpio/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/sensor_types/AccelerometerSensor.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/sensor_types/AccelerometerSensor.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/sensor_types/BarometricPressureSensor.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/sensor_types/BarometricPressureSensor.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/sensor_types/GyroscopeSensor.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/sensor_types/GyroscopeSensor.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/sensor_types/HumiditySensor.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/sensor_types/HumiditySensor.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/sensor_types/MagnetometerSensor.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/sensor_types/MagnetometerSensor.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/sensor_types/TemperatureSensor.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/sensor_types/TemperatureSensor.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/sensor_types/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/sensor_types/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/sensor_types/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/sensor_types/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/sensor_types/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/device/sensors/sensor_types/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/extras/assignment_autograding/BeadsChecker.BeadsCheckable.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/extras/assignment_autograding/BeadsChecker.BeadsCheckable.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/extras/assignment_autograding/BeadsChecker.BeadsCheckerFunction.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/extras/assignment_autograding/BeadsChecker.BeadsCheckerFunction.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/extras/assignment_autograding/BeadsChecker.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/extras/assignment_autograding/BeadsChecker.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/extras/assignment_autograding/RuntimeTypeAdapterFactory.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/extras/assignment_autograding/RuntimeTypeAdapterFactory.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/extras/assignment_autograding/SimpleCheckable.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/extras/assignment_autograding/SimpleCheckable.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/extras/assignment_autograding/package-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/extras/assignment_autograding/package-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/extras/assignment_autograding/package-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/extras/assignment_autograding/package-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/extras/assignment_autograding/package-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/net/happybrackets/extras/assignment_autograding/package-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/overview-frame.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/overview-frame.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/overview-summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/overview-summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/overview-tree.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/overview-tree.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libs/docs/hb/javadoc/serialized-form.html" beforeDir="false" afterPath="$PROJECT_DIR$/libs/docs/hb/javadoc/serialized-form.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cat_Hat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cat_Hat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/examples/basic/GainEnvelope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/examples/basic/GainEnvelope.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/examples/controls/floatcontrol/FloatBuddyControlSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/examples/controls/floatcontrol/FloatBuddyControlSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/examples/controls/floatcontrol/FloatSliderControlSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/examples/controls/floatcontrol/FloatSliderControlSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/examples/controls/floatcontrol/FloatTextControlSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/examples/controls/floatcontrol/FloatTextControlSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/examples/controls/globalcontrol/GlobalControl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/examples/controls/globalcontrol/GlobalControl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/examples/controls/integerControl/IntegerBuddyControlSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/examples/controls/integerControl/IntegerBuddyControlSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/examples/controls/integerControl/IntegerSliderControlSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/examples/controls/integerControl/IntegerSliderControlSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/examples/controls/integerControl/IntegerTextControlSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/examples/controls/integerControl/IntegerTextControlSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/examples/controls/triggercontrol/TriggerControlSample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/examples/controls/triggercontrol/TriggerControlSample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/examples/events/clocks/SensorControlledBeadsClock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/examples/events/clocks/SensorControlledBeadsClock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/examples/events/clocks/SensorControlledClock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/examples/events/clocks/SensorControlledClock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/examples/events/clocks/SimpleClock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/examples/events/clocks/SimpleClock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/examples/events/clocks/VariableClock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/examples/events/clocks/VariableClock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/examples/events/delay/DelayPitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/examples/events/delay/DelayPitch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/examples/midi/basic/SimpleMIDI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/examples/midi/basic/SimpleMIDI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/examples/midi/scales/CustomScale.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/examples/midi/scales/CustomScale.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/examples/midi/scales/MajorScale.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/examples/midi/scales/MajorScale.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/examples/midi/scales/MajorScaleModulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/examples/midi/scales/MajorScaleModulo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/examples/sensor/accelerometer/SimpleAccelerometer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/examples/sensor/accelerometer/SimpleAccelerometer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/examples/sensor/accelerometer/TripleAxisAccelerometer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/examples/sensor/accelerometer/TripleAxisAccelerometer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/examples/sensor/gyroscope/SimpleGyroscope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/examples/sensor/gyroscope/SimpleGyroscope.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/examples/sensor/gyroscope/TripleAxisGyroscope.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/examples/sensor/gyroscope/TripleAxisGyroscope.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/examples/threads/ControlledThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/examples/threads/ControlledThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/examples/threads/SimpleThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/examples/threads/SimpleThread.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/build/production/Cat_Hat/" />
     <ignored path="$PROJECT_DIR$/build/test/Cat_Hat/" />
@@ -304,8 +24,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Cat_Hat.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="51" lean-forward="true" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
+            <state relative-caret-position="285">
+              <caret line="19" column="67" selection-start-line="19" selection-start-column="67" selection-end-line="19" selection-end-column="67" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -342,7 +62,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
+    <option name="x" value="590" />
+    <option name="y" value="57" />
     <option name="width" value="1680" />
     <option name="height" value="1027" />
   </component>
@@ -351,6 +72,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -440,13 +162,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Device/HappyBrackets/data/audio/Cat" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -552,9 +273,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23565324" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23809524" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24959612" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -597,7 +317,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml" />
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -608,13 +327,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Device/HappyBrackets/config/simulator.config">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Device/HappyBrackets/data/audio/Cat/attributions.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -622,10 +334,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Device/HappyBrackets/config/simulator.config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Cat_Hat.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="51" lean-forward="true" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
+        <state relative-caret-position="285">
+          <caret line="19" column="67" selection-start-line="19" selection-start-column="67" selection-end-line="19" selection-end-column="67" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
