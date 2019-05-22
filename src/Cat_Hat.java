@@ -10,39 +10,21 @@ import net.happybrackets.device.HB;
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
 import java.lang.invoke.MethodHandles;
-import java.util.LinkedList;
 
 import static com.sun.java.accessibility.util.AWTEventMonitor.addKeyListener;
 
 public class Cat_Hat implements HBAction, HBReset {
     // Change to the number of audio Channels on your device
     final int NUMBER_AUDIO_CHANNELS = 1;
-    String[] firstSound = {
-            "data/audio/Cat/cat1.wav",
-            "data/audio/Cat/cat2.wav",
-            "data/audio/Cat/cat3.wav",
-            "data/audio/Cat/cat4.wav",
-            "data/audio/Cat/cat5.wav",
-            "data/audio/Cat/cat6.wav"
-    };
-
-    private String[] secondSound = {
-            "data/audio/Cat/angry1.wav",
-            "data/audio/Cat/angry2.wav",
-            "data/audio/Cat/angry3.wav",
-            "data/audio/Cat/angry4.wav"
-    };
-
-    private String[] thirdSound = {
-            "data/audio/Cat/purr.wav",
-            "data/audio/Cat/purr1.wav",
-            "data/audio/Cat/purr2.wav",
-            "data/audio/Cat/purr3.wav",
-            "data/audio/Cat/purr5.wav"
-    };
 
     // This variable will become true when the composition is reset
     boolean compositionReset = false;
+
+    private String[] audioFiles = {
+            "data/audio/Cat/meow.wav",
+            "data/audio/Cat/purr.wav",
+            "data/audio/Cat/screech.wav"
+    };
 
     @Override
     public void action(HB hb) {
@@ -57,14 +39,15 @@ public class Cat_Hat implements HBAction, HBReset {
         Glide audioVolume = new Glide(1f);
 
         // Save location to audio files into variables
-        String AUDIO_FILE = firstSound[randomize(firstSound.length, 0)];
+        //final String FIRST_AUDIO_FILE = "data/audio/Cat/meow.wav";
+        String FIRST_AUDIO_FILE = audioFiles[randomize(audioFiles.length, 0)];
 
         // Load audio files
-        Sample firstSample = SampleManager.sample(AUDIO_FILE);
+        Sample firstSample = SampleManager.sample(FIRST_AUDIO_FILE);
 
-        System.out.println("playing" + AUDIO_FILE);
+        System.out.println("test if working");
 
-        if (true) {
+        if (firstSample != null) {
             // Create player for audio files
             SamplePlayer firstSamplePlayer = new SamplePlayer(firstSample);
 
@@ -73,7 +56,7 @@ public class Cat_Hat implements HBAction, HBReset {
             gainAmplifier.addInput(firstSamplePlayer);
             hb.ac.out.addInput(gainAmplifier);
 
-            System.out.println("Audio File Playing: " + AUDIO_FILE);
+            System.out.println("Audio File Playing: " + FIRST_AUDIO_FILE);
             firstSamplePlayer.start();
 
         } else {
@@ -115,12 +98,16 @@ public class Cat_Hat implements HBAction, HBReset {
         /***** Type your HBAction code above this line ******/
     }
 
+    /*
+
+     */
     private int randomize(int max, int min) {
         int i = 0;
         int range = (max - min) + 1;
         i = (int)(Math.random() * range) + min;
         return i;
     }
+
 
     /**
      * Add any code you need to have occur when a reset occurs
@@ -141,6 +128,7 @@ public class Cat_Hat implements HBAction, HBReset {
      * @param args standard args required
      */
     public static void main(String[] args) {
+
         try {
             HB.runDebug(MethodHandles.lookup().lookupClass());
         } catch (Exception e) {
