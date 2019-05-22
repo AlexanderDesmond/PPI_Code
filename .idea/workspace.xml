@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="8ac14a86-6248-4999-beb1-94c7835de615" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Cat_Hat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cat_Hat.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/build/production/Cat_Hat/" />
     <ignored path="$PROJECT_DIR$/build/test/Cat_Hat/" />
@@ -25,8 +24,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Cat_Hat.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="796">
-              <caret line="105" lean-forward="true" selection-start-line="105" selection-end-line="105" />
+            <state relative-caret-position="1135">
+              <caret line="123" lean-forward="true" selection-start-line="123" selection-end-line="123" />
               <folding>
                 <element signature="e#3456#3515#0" expanded="true" />
               </folding>
@@ -250,7 +249,7 @@
     <frame x="0" y="23" width="1680" height="962" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24420024" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24420024" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.24959612" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -259,7 +258,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49353796" weight="0.32840723" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.3931624" visible="true" weight="0.33908045" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.3931624" visible="true" weight="0.33908045" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.46616542" weight="0.39786097" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -322,8 +321,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Cat_Hat.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="796">
-          <caret line="105" lean-forward="true" selection-start-line="105" selection-end-line="105" />
+        <state relative-caret-position="1135">
+          <caret line="123" lean-forward="true" selection-start-line="123" selection-end-line="123" />
           <folding>
             <element signature="e#3456#3515#0" expanded="true" />
           </folding>
