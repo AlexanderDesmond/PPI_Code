@@ -20,6 +20,12 @@ public class Cat_Hat implements HBAction, HBReset {
     // This variable will become true when the composition is reset
     boolean compositionReset = false;
 
+    private String[] audioFiles = {
+            "data/audio/Cat/meow.wav",
+            "data/audio/Cat/purr.wav",
+            "data/audio/Cat/screech.wav"
+    };
+
     @Override
     public void action(HB hb) {
         /***** Type your HBAction code below this line ******/
@@ -33,14 +39,15 @@ public class Cat_Hat implements HBAction, HBReset {
         Glide audioVolume = new Glide(1f);
 
         // Save location to audio files into variables
-        final String FIRST_AUDIO_FILE = "data/audio/Cat/meow.wav";
+        //final String FIRST_AUDIO_FILE = "data/audio/Cat/meow.wav";
+        String FIRST_AUDIO_FILE = audioFiles[randomize(audioFiles.length, 0)];
 
         // Load audio files
         Sample firstSample = SampleManager.sample(FIRST_AUDIO_FILE);
 
-        System.out.println("test test test");
+        System.out.println("test if working");
 
-        if (true) {
+        if (firstSample != null) {
             // Create player for audio files
             SamplePlayer firstSamplePlayer = new SamplePlayer(firstSample);
 
@@ -91,24 +98,14 @@ public class Cat_Hat implements HBAction, HBReset {
         /***** Type your HBAction code above this line ******/
     }
 
-    private void firstSound() {
+    /*
 
-    }
-
-    private void secondSound() {
-
-    }
-
-    private void thirdSound() {
-
-    }
-
-    private void fourthSound() {
-
-    }
-
-    private void fifthSound() {
-
+     */
+    private int randomize(int max, int min) {
+        int i = 0;
+        int range = (max - min) + 1;
+        i = (int)(Math.random() * range) + min;
+        return i;
     }
 
 
