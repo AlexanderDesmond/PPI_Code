@@ -20,12 +20,6 @@ public class Cat_Hat implements HBAction, HBReset {
     // This variable will become true when the composition is reset
     boolean compositionReset = false;
 
-    private String[] audioFiles = {
-            "data/audio/Cat/meow.wav",
-            "data/audio/Cat/purr.wav",
-            "data/audio/Cat/screech.wav"
-    };
-
     @Override
     public void action(HB hb) {
         /***** Type your HBAction code below this line ******/
@@ -40,74 +34,33 @@ public class Cat_Hat implements HBAction, HBReset {
 
         // Save location to audio files into variables
         //final String FIRST_AUDIO_FILE = "data/audio/Cat/meow.wav";
-        String FIRST_AUDIO_FILE = audioFiles[randomize(audioFiles.length, 0)];
 
         // Load audio files
-        Sample firstSample = SampleManager.sample(FIRST_AUDIO_FILE);
+        //Sample sample = SampleManager.sample(FIRST_AUDIO_FILE);
 
-        System.out.println("test if working");
+        //System.out.println("Playing " + FIRST_AUDIO_FILE);
 
-        if (firstSample != null) {
+        SampleManager.group("Cat", "data/audio/Cat");
+        Sample sample = SampleManager.randomFromGroup("Cat");
+
+        if (sample != null) {
             // Create player for audio files
-            SamplePlayer firstSamplePlayer = new SamplePlayer(firstSample);
+            SamplePlayer firstSamplePlayer = new SamplePlayer(sample);
 
             // Set the gain amplifier
             Gain gainAmplifier = new Gain(NUMBER_AUDIO_CHANNELS, audioVolume);
             gainAmplifier.addInput(firstSamplePlayer);
             hb.ac.out.addInput(gainAmplifier);
 
-            System.out.println("Audio File Playing: " + FIRST_AUDIO_FILE);
+            System.out.println("Audio File Playing: " + sample.getFileName());
             firstSamplePlayer.start();
 
         } else {
             hb.setStatus("Sample Failed");
         }
 
-        System.out.println("Program is started:");
-
-
-        new KeyListener() {
-
-            @Override
-            public void keyTyped(KeyEvent keyEvent) {
-
-            }
-
-            @Override
-            public void keyPressed(KeyEvent keyEvent) {
-                int key = keyEvent.getKeyCode();
-
-                switch (key) {
-
-                }
-                System.out.println("Status: Key pressed"); // Test
-            }
-
-            @Override
-            public void keyReleased(KeyEvent keyEvent) {
-                int key = keyEvent.getKeyCode();
-
-                switch (key) {
-
-                }
-                System.out.println("Status: Key released"); // Test
-            }
-        };
-        System.out.println("Program terminated.");
-
         /***** Type your HBAction code above this line ******/
     }
-
-    /*
-
-     */
-    private int randomize(int max, int min) {
-        int i = 0;
-        int range = (max - min) + 1;
-        i = (int)(Math.random() * range) + min;
-        return i;
-    }
-
 
     /**
      * Add any code you need to have occur when a reset occurs
@@ -135,20 +88,5 @@ public class Cat_Hat implements HBAction, HBReset {
             e.printStackTrace();
         }
     }
-
-//    @Override
-//    public void keyTyped(KeyEvent e) {
-//        System.out.println("Second Key Pressed!");
-//    }
-//
-//    @Override
-//    public void keyPressed(KeyEvent e) {
-//
-//    }
-//
-//    @Override
-//    public void keyReleased(KeyEvent e) {
-//        System.out.println("Second Key Released!");
-//    }
     //</editor-fold>
 }
