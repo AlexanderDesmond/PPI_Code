@@ -7,11 +7,8 @@ import net.happybrackets.core.HBAction;
 import net.happybrackets.core.HBReset;
 import net.happybrackets.device.HB;
 
-import java.awt.event.KeyEvent;
-import java.awt.event.KeyListener;
 import java.lang.invoke.MethodHandles;
 
-import static com.sun.java.accessibility.util.AWTEventMonitor.addKeyListener;
 
 public class Cat_Hat implements HBAction, HBReset {
     // Change to the number of audio Channels on your device
