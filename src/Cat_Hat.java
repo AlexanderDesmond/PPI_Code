@@ -11,11 +11,14 @@ import java.lang.invoke.MethodHandles;
 
 
 public class Cat_Hat implements HBAction, HBReset {
+    private static Joystick joystick;
     // Change to the number of audio Channels on your device
-    final int NUMBER_AUDIO_CHANNELS = 1;
+    private final int NUMBER_AUDIO_CHANNELS = 1;
 
     // This variable will become true when the composition is reset
-    boolean compositionReset = false;
+    private boolean compositionReset = false;
+
+    private Joystick joystick1 = Joystick.getJoystick();
 
     @Override
     public void action(HB hb) {
@@ -56,6 +59,7 @@ public class Cat_Hat implements HBAction, HBReset {
             hb.setStatus("Sample Failed");
         }
 
+
         /***** Type your HBAction code above this line ******/
     }
 
@@ -68,6 +72,7 @@ public class Cat_Hat implements HBAction, HBReset {
         /***** Type your HBReset code below this line ******/
 
         /***** Type your HBReset code above this line ******/
+
     }
 
     //<editor-fold defaultstate="collapsed" desc="Debug Start">
@@ -79,10 +84,14 @@ public class Cat_Hat implements HBAction, HBReset {
      */
     public static void main(String[] args) {
 
-        try {
-            HB.runDebug(MethodHandles.lookup().lookupClass());
-        } catch (Exception e) {
-            e.printStackTrace();
+//        try {
+//            HB.runDebug(MethodHandles.lookup().lookupClass());
+//        } catch (Exception e) {
+//            e.printStackTrace();
+//        }
+        JoystickEvent joyStickEvent = joystick.read();
+        for(int u =0;u < 200;u++) {
+            System.out.println(joyStickEvent.getValue());
         }
     }
     //</editor-fold>
