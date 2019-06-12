@@ -37,8 +37,8 @@ public class Cat_Hat implements HBAction, HBReset {
 
         //System.out.println("Playing " + FIRST_AUDIO_FILE);
 
-        SampleManager.group("Cat", "data/audio/Cat");
-        Sample sample = SampleManager.randomFromGroup("Cat");
+        SampleManager.group("Horror", "data/audio/Horror");
+        Sample sample = SampleManager.randomFromGroup("Horror");
 
         if (sample != null) {
             // Create player for audio files
